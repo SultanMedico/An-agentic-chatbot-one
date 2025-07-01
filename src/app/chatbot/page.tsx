@@ -8,7 +8,7 @@ export default function Chatbot() {
       <h1 className="text-4xl font-bold">Welcome to My (Sultan's) Agentic Chatbot</h1>
       <p className="mt-4 text-lg">This is a simple chatbot application built with Next.js.</p>
       <Image
-        src="/ro.png"
+        src=".png"
         // Note: In Next.js, the path should be relative to the `public` directory
         // or you can use an absolute URL if the image is hosted elsewhere.
         // If the image is in the `public` directory, you can use `/chatbot
