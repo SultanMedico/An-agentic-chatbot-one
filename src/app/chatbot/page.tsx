@@ -12,7 +12,7 @@ export default function Chatbot() {
         // Note: In Next.js, the path should be relative to the `public` directory
         // or you can use an absolute URL if the image is hosted elsewhere.
         // If the image is in the `public` directory, you can use `/chatbot
-        alt="Chatbot Image"
+        alt=""
         width={500}
         height={300}
       />
